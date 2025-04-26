@@ -1,9 +1,9 @@
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=IllalRajinCoding&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=IllalRajinCoding&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
 
