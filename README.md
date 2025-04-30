@@ -1,8 +1,8 @@
 <div align="center">
-  <div>
-    <h1>Robbanie Is Here</h1>
-    <p>Im collage in STT Terpadu Nurul Fikri</p>
-  </div>
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+everyone)](https://git.io/typing-svg)
+
   
   <h1>Activity on GitHub</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
