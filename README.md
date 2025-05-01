@@ -1,7 +1,7 @@
 <div align="center">
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.+Im+IllalRajinCoding;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.+Im+IllalRajinCoding+and+this+my+repo+or+project;)](https://git.io/typing-svg)
 
   
   <h1>Activity on GitHub</h1>
