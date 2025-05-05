@@ -2,15 +2,11 @@
 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.Im+IllalRajinCoding+an;this+my+repo+or+project;)](https://git.io/typing-svg)
-
-  
-  <h1>Activity on GitHub</h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   
 </div>
 <div align="center">
 
-  <h1>IM USING JAVASCRIPT NOT PHP</h1>
+  <h1>HAI</h1>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IllalRajinCoding&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
