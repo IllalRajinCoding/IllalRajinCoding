@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.Im+IllalRajinCoding+an;this+my+repo+or+project;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.Im++IllalRajinCoding;)](https://git.io/typing-svg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/IllalRajinCoding/count.svg)
