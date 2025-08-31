@@ -2,6 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.Im++Robbanie;)](https://git.io/typing-svg)
 
+![](https://www.codewars.com/users/loxyxcode/badges/small)
 
 ![Visitor Count](https://profile-counter.glitch.me/IllalRajinCoding/count.svg)
   
