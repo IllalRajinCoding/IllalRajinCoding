@@ -49,3 +49,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/you)
 
 </div>
+
+---
+## Badge
+
+[](https://www.cloudskillsboost.google/public_profiles/9720c492-883d-4376-955e-2f111853cafd/badges/17706175)
