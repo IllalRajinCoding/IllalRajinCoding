@@ -4,7 +4,7 @@
 
 ![](https://www.codewars.com/users/loxyxcode/badges/small)
 
-![Visitor Count](https://profile-counter.glitch.me/IllalRajinCoding/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=IllalRajinCoding)
 
 </div>
 
