@@ -1,5 +1,20 @@
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.+I'm+Robbanie!;Cybersecurity+and+CTF+Enthusiast!)](https://git.io/typing-svg)
+  <!-- Left: GIF -->
+  <img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="320" alt="Coding GIF" style="border-radius: 10px;"/>
+
+  <!-- Right: Intro Text -->
+  <div style="flex: 1; min-width: 250px;">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome!;I'm+Robbanie!;Cybersecurity+and+CTF+Enthusiast!)](https://git.io/typing-svg)
+
+  - 🎓 I'm a student at **SIT Nurul Fikri**
+  - 🧩 I want to be an **expert in Reverse Engineering**
+  - 🐧 Btw... I use **Arch Linux**, of course 😎
+
+  </div>
+
+</div>
 
 ---
 
@@ -8,16 +23,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img align="left" width=350px height=197px src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" alt="Coding GIF">
-  <br>
-  - Im student in SIT Nurul Fikri
-  - I want to be expert Reverse Engineering
-  - Btw I USe Arch
-  <br>
-</div>
-
----
+### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,13 +34,13 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbanie-hillaly-kurniadien-1b285a334/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/loxyland)
 
 ---
 
-## 🏅 Badge
+### 🏅 Badge
 
 [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-Badge-blue?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/9720c492-883d-4376-955e-2f111853cafd/badges/17706175)
