@@ -11,7 +11,7 @@
 
 - 🎓 I'm a student at **SIT Nurul Fikri**
 - 🧩 I want to be an **expert in Reverse Engineering**
-- 🐧 Btw... I use **Arch Linux**, of course 😎
+- ⭐ Enjoy **CTF** and **CyberSecurity Enthusiast** 
 
 ![](https://www.codewars.com/users/loxyxcode/badges/small)
 ![Visitor Count](https://komarev.com/ghpvc/?username=IllalRajinCoding)
