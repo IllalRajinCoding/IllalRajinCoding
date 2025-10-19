@@ -9,8 +9,12 @@
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="230" alt="Coding GIF">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img align="left" width=350px height=197px src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" alt="Coding GIF">
+  <br>
+  - Im student in SIT Nurul Fikri
+  - I want to be expert Reverse Engineering
+  - Btw I USe Arch
+  <br>
 </div>
 
 ---
