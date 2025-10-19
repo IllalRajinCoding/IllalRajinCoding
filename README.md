@@ -1,6 +1,7 @@
-# 👋 Hello, Welcome! I'm Robbanie!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.+I'm+Robbanie!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome.+I'm+Robbanie!;Cybersecurity+and+CTF+Enthusiast!)](https://git.io/typing-svg)
+
+---
 
 ![](https://www.codewars.com/users/loxyxcode/badges/small)
 ![Visitor Count](https://komarev.com/ghpvc/?username=IllalRajinCoding)
@@ -9,9 +10,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="250">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="230" alt="Coding GIF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
 ---
 
