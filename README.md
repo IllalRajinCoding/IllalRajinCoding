@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://tenor.com/skU7sWU5j2h.gif" width="250">
+<img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="250">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
