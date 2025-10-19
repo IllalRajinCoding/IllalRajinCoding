@@ -8,16 +8,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="230" alt="Coding GIF">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllalRajinCoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 ---
-
-## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
