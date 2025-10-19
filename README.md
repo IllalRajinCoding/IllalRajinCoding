@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![](https://tenor.com/skU7sWU5j2h.gif)
+<div class="tenor-gif-embed" data-postid="15253011938283381591" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-shupogaki-acomu414-tachibana-nozomi-nozomi-gif-15253011938283381591">Anime Shupogaki Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
