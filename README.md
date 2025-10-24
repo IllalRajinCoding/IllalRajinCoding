@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+welcome!;I'm+Robbanie!;Cybersecurity+and+CTF+Enthusiast!)](https://git.io/typing-svg)
 
-- 🎓 I'm a student at **SIT Nurul Fikri**
+- 🎓 I'm a student at **STT Nurul Fikri**
 - 🧩 I want to be an **expert in Reverse Engineering**
 - ⭐ Enjoy **CTF** and **CyberSecurity Enthusiast** 
 
