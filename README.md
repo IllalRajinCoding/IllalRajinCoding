@@ -19,8 +19,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbanie-hillaly-kurniadien-1b285a334/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/loxyland) [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-Badge-blue?style=for-the-badge&logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/9720c492-883d-4376-955e-2f111853cafd/badges/17706175)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/loxyland) [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-Badge-blue?style=for-the-badge&logo=googlecloud)](https://www.skills.google/public_profiles/9720c492-883d-4376-955e-2f111853cafd)
 </td>
 </tr>
 </table>
